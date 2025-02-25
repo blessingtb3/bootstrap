@@ -33,4 +33,8 @@
 
 ## Offset
 - **Offset**: Offsets are used to push columns to the right by a specified number of grid spaces.
-  - `.offset-{size}-{number}`: Offsets a column to the right by the specified number of grid spaces 
+  - `.offset-{size}-{number}`: Offsets a column to the right by the specified number of grid spaces.
+
+# In addition to the bootstrap grid system, we have
+# Tables - https://getbootstrap.com/docs/5.0/content/tables/
+# Forms - https://getbootstrap.com/docs/5.0/forms/overview/
